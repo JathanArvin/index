@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://i.gifer.com/origin/7e/7e4ae8864bcfaa4145213246b616148f_w200.gif);
+}
+img{
+    width:400px;
+    margin-right: 200px;
+}
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-weight: 900;
+    text-align: center;
+}
+nav{
+    font-family: sans-serif;
+    color: black;
+    font-weight: 900;
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+footer{
+    font-family: sans-serif;
+    color: black;
+    font-weight: 900;
+    text-align: center;
+    margin-right: 200px;
+}
